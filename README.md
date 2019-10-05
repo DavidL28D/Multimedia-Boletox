@@ -3,7 +3,7 @@
 </p>
 
 # Multimedia-Boletox
-## Implementación de las vistas de para la empresa de cine Boletox
+## Implementación de las vistas para la empresa de cine Boletox
 
 Breve descripcion del proyecto.
 
