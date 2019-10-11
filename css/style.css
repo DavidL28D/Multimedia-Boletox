@@ -1,0 +1,15 @@
+.orange-customized{
+    background-color:#F56600;
+}
+
+.text-orange-customized{
+    color:#F56600;
+}
+.nav-hover{
+    transition: 0.3s;
+    
+}
+.nav-hover:hover{
+    color: #111111;
+    font-size: 18px;
+}
