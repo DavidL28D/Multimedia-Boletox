@@ -104,7 +104,6 @@
 
         </div>
 
-        <h2 class="text-center text-light font-weight-bold mb-4">Preventa</h2>
         <div class="row">
 
             <div class="col-lg-3 col-md-12 mb-4">
