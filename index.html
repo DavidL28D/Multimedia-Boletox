@@ -20,74 +20,270 @@
 
   </head>
 
-  <body>
+  <body class="grey darken-4">
 
-    <!--Navbar -->
-    <nav class="mb-1 navbar navbar-expand-lg navbar-dark blue-grey darken-3">
+    <header class="z-depth-4 border-bottom border-bottom-light  mb-2">
+      <div class="container ">
+        <!--Navbar-->
+        <nav class="navbar navbar-expand-lg navbar-dark d-flex justify-content-between z-depth-0">
 
-      <a class="navbar-brand" href="index.html">Boletox</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-333" aria-controls="navbarSupportedContent-333" aria-expanded="false" aria-label="Toggle navigation"></button>
+          <a class="navbar-brand text-light font-weight-bold" href="index.html">Boletox</a>
 
-      <div class="collapse navbar-collapse" id="navbarSupportedContent-333">
+          <div>
+            
+            <div class="collapse navbar-collapse" id="basicExampleNav">
+              
+              <form class="form-inline">
+                <div class="my-0">
+                  <input class="form-control " type="text" placeholder="Buscar" aria-label="Search">
+                  <button class="btn btn-outline-white btn-md my-2 my-sm-0 ml-3" type="submit">Buscar</button>
+                </div>
+              </form>
 
-        <ul class="navbar-nav mr-auto">
+              <ul class="navbar-nav mr-auto">
+                <li class="nav-item dropdown">
+                  <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown"
+                    aria-haspopup="true" aria-expanded="false"><i class="fas fa-user"></i> Perfil</a>
+                  <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
+                    <a class="dropdown-item" href="#">Action</a>
+                    <a class="dropdown-item" href="#">Another action</a>
+                    <a class="dropdown-item" href="#">Something else here</a>
+                  </div>
+                </li>
+              </ul>
 
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown" id="navbarDropdownMenuLink-333" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Entradas</a>
-            <div class="dropdown-menu dropdown-menu-left dropdown-default" aria-labelledby="navbarDropdownMenuLink-333">
-              <a class="dropdown-item" href="cartelera.html">Cartelera</a>
-              <a class="dropdown-item" href="preventa.html">Preventa</a>
-              <a class="dropdown-item" href="estrenos.html">Proximos Estrenos</a>
             </div>
-          </li>
 
-          <li class="nav-item">
-            <a class="nav-link" href="peliculas.html">Peliculas</a>
-          </li>
+          </div>
 
-          <li class="nav-item">
-            <a class="nav-link" href="ofertas.html">Ofertas</a>
-          </li>
-
-          <li class="nav-item">
-            <a class="nav-link" href="noticias.html">Noticias</a>
-          </li>
-
-          <li class="nav-item">
-            <a class="nav-link" href="contactanos.html">Contactanos</a>
-          </li>
-
-          <form class="form-inline my-2 my-lg-0 ml-auto justify-content-end">
-            <input class="form-control" type="search" placeholder="Buscar" aria-label="Search">
-            <button class="btn btn-outline-white btn-md my-2 my-sm-0 ml-3" type="submit">Buscar</button>
-          </form>
-
-          <li class="nav-item dropdown">  
-            <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink-333" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            <i class="fas fa-user"></i> Perfil </a>
-            <div class="dropdown-menu dropdown-menu-right dropdown-info" aria-labelledby="navbarDropdownMenuLink-333">
-              <a class="dropdown-item" href="#">Mi Cuenta</a>
-              <a class="dropdown-item" href="#">Salir</a>
-            </div>
-          </li>
-
-        </ul>
-
+        </nav>
       </div>
 
-    </nav>
+      <nav class="navbar navbar-expand-lg navbar-dark w-100 z-depth-0 amber darken-4 ">
+
+        <div class="container">
+
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-333" aria-controls="navbarSupportedContent-333" aria-expanded="false" aria-label="Toggle navigation"></button>
+          
+          <ul class="navbar-nav w-100 d-flex justify-content-around">
+              <li class="nav-item dropdown ">
+                <a class="nav-link nav-hover dropdown font-weight-bold" id="navbarDropdownMenuLink-333" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Entradas</a>
+                <div class="dropdown-menu dropdown-menu-left amber darken-4  border-bottom border-bottom-dark dropdown-default" aria-labelledby="navbarDropdownMenuLink-333">
+                  <a class="dropdown-item text-light font-weight-bold" href="cartelera.html">Cartelera</a>
+                  <a class="dropdown-item text-light font-weight-bold" href="preventa.html">Preventa</a>
+                  <a class="dropdown-item text-light font-weight-bold" href="estrenos.html">Proximos Estrenos</a>
+                </div>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link nav-hover font-weight-bold grey-lighter-hover" href="peliculas.html"><strong>Peliculas</strong></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link nav-hover font-weight-bold" href="ofertas.html"><strong>Ofertas</strong></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link nav-hover font-weight-bold" href="noticias.html"><strong>Noticias</strong> </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link nav-hover font-weight-bold" href="contactanos.html"><strong>Contactanos</strong></a>
+              </li>
+          </ul>
+          
+        </div>
+            
+      </nav>
+      
+    </header>
     <!--/.Navbar -->
 
     <!-- Inicio del codigo -->
+    <!--------------------------------------------------------------------------Carrusel ----------------------------------------------------->
+    <section class="container" >
+      <div id="carousel-notices" class="carousel slide carousel-fade" data-ride="carousel">
+          <ol class="carousel-indicators">
+              <li data-target="#carousel-notices" data-slide-to="0" class="active"></li>
+              <li data-target="#carousel-notices" data-slide-to="1"></li>
+              <li data-target="#carousel-notices" data-slide-to="2"></li>
+              <li data-target="#carousel-notices" data-slide-to="3"></li>
+          </ol>
+          <div class="carousel-inner" role="listbox">
+              <div class="carousel-item active">
+                  <div class="view">
+                      <img class="d-block w-100" style="height: 500px;"  src="img/Slide1.jpg"
+                        alt="First slide">
+                      <div class="mask rgba-black-light"></div>
+                  </div>
+              </div>
+              <div class="carousel-item">
+                  <div class="view">
+                      <img class="d-block w-100" style="height: 500px;" src="img/Slide2.jpg"
+                        alt="Second slide">
+                      <div class="mask rgba-black-light"></div>
+                  </div>
+              </div>
+              <div class="carousel-item">
+                  <div class="view">
+                      <img class="d-block w-100" style="height: 500px;" src="img/Slide3.png"
+                        alt="Third slide">
+                      <div class="mask rgba-black-light"></div>
+                  </div>
+                  
+              </div>
+              <div class="carousel-item">
+                  <div class="view">
+                      <img class="d-block w-100" style="height: 500px;" src="img/Slide4.jpeg"
+                        alt="Third slide">
+                      <div class="mask rgba-black-light"></div>
+                  </div>
+              </div>
+          </div>
+          <a class="carousel-control-prev" href="#carousel-notices" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+          </a>
+          <a class="carousel-control-next" href="#carousel-notices" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+          </a>
+      </div>
+    </section>
+    <!-----------------------------------------------------------------Carrusel multiple---------------------------------------------------------->
+    <section class="container" >
+        <h3>Películas</h3>
+      <div id="multi-movies-slide" class="carousel slide carousel-multi-item m-4" data-ride="carousel">
+      
+        <div class="carousel-inner" role="listbox">
+      
+          <div class="carousel-item active">
 
+            <div class="row">
+
+                <div class="col-md-3">
+                  <div class="card mb-2">
+                    <img class="card-img-top"
+                      src="img/AvengersEndgame.jpg"
+                      alt="Card image cap">
+                  </div>
+                </div>
+          
+                <div class="col-md-3">
+                  <div class="card mb-2">
+                    <img class="card-img-top"
+                      src="img/CementerioMaldito.jpg"
+                      alt="Card image cap">
+                  </div>
+                </div>
+          
+                <div class="col-md-3">
+                  <div class="card mb-2">
+                    <img class="card-img-top"
+                      src="img/DetectivePikachu.jpg"
+                      alt="Card image cap">
+                  </div>
+                </div>
+
+                <div class="col-md-3">
+                    <div class="card mb-2">
+                      <img class="card-img-top"
+                        src="img/DolorYGloria.jpg" alt="Card image cap">
+                    </div>
+                </div>
+
+            </div>
+      
+          </div>
+
+          <div class="carousel-item">
+
+            <div class="row">
+        
+              <div class="col-md-3">
+                <div class="card mb-2">
+                  <img class="card-img-top"
+                    src="img/LaRebelion.jpg" alt="Card image cap">
+                </div>
+              </div>
+        
+              <div class="col-md-3">
+                <div class="card mb-2">
+                  <img class="card-img-top"
+                    src="img/RocketMan.jpg" alt="Card image cap">
+                </div>
+              </div>
+        
+              <div class="col-md-3">
+                <div class="card mb-2">
+                  <img class="card-img-top"
+                    src="img/UglyDolls.jpg" alt="Card image cap">
+                </div>
+              </div>
+
+              <div class="col-md-3">
+                  <div class="card mb-2">
+                    <img class="card-img-top"
+                      src="img/MIBInternacional.jpg" alt="Card image cap">
+                  </div>
+                </div>
+        
+            </div>
+          </div>
+
+          <div class="carousel-item">
+
+            <div class="row">
+
+              <div class="col-md-3">
+                <div class="card mb-2">
+                  <img class="card-img-top"
+                    src="img/ToyStory4.jpg" alt="Card image cap">
+                </div>
+              </div>
+        
+              <div class="col-md-3">
+                <div class="card mb-2">
+                  <img class="card-img-top"
+                    src="img/SpidermanLejosDeCasa.jpg" alt="Card image cap">
+                </div>
+              </div>
+        
+              <div class="col-md-3">
+                <div class="card mb-2">
+                  <img class="card-img-top"
+                    src="img/Anabelle3.jpg" alt="Card image cap">
+                </div>
+              </div>
+
+              <div class="col-md-3">
+                  <div class="card mb-2">
+                    <img class="card-img-top"
+                      src="img/BrightburnHijoDeLaObscuridad.jpg" alt="Card image cap">
+                  </div>
+              </div>
+
+            </div>
+      
+          </div>
+        </div>
+          <a class="carousel-control-prev" href="#multi-movies-slide" role="button" data-slide="prev">
+              <span class="fas fa-chevron-circle-left fa-4x" aria-hidden="true"></span>
+          </a>
+          <a class="carousel-control-next" href="#multi-movies-slide" role="button" data-slide="next">
+              <span class="fas fa-chevron-circle-right fa-4x " aria-hidden="true"></span>
+          </a>
+          <ol class="carousel-indicators position-static">
+            <li data-target="#multi-movies-slide" data-slide-to="0" class="bg-light active "></li>
+            <li data-target="#multi-movies-slide" class="bg-light" data-slide-to="1"></li>
+            <li data-target="#multi-movies-slide" class="bg-light" data-slide-to="2"></li>
+          </ol>
+      </div>
+    </section>
     <!-- Final del codigo -->
 
     <!-- Footer -->
-    <footer class="page-footer font-small blue-grey darken-4">
+    <footer class="page-footer font-small amber darken-4 border-top border-top-light">
 
       <!-- Footer Elements -->
       <div class="container">
-
+        <h4 class="font-weight-bold text-center mt-3">Síguenos</h4>
         <!-- Grid row-->
         <div class="row">
 
@@ -97,32 +293,32 @@
             <div class="mb-5 flex-center">
 
               <!-- Facebook -->
-              <a class="fb-ic">
+              <a class="fb-ic text-orange-customized">
               <i class="fab fa-facebook-f fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
               </a>
 
               <!-- Twitter -->
-              <a class="tw-ic">
+              <a class="tw-ic text-orange-customized">
               <i class="fab fa-twitter fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
               </a>
 
               <!-- Google +-->
-              <a class="gplus-ic">
+              <a class="gplus-ic text-orange-customized">
               <i class="fab fa-google-plus-g fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
               </a>
 
               <!--Linkedin -->
-              <a class="li-ic">
+              <a class="li-ic text-orange-customized">
               <i class="fab fa-linkedin-in fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
               </a>
 
               <!--Instagram-->
-              <a class="ins-ic">
+              <a class="ins-ic text-orange-customized">
               <i class="fab fa-instagram fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
               </a>
 
               <!--Pinterest-->
-              <a class="pin-ic">
+              <a class="pin-ic ">
               <i class="fab fa-pinterest fa-lg white-text fa-2x"> </i>
               </a>
 
