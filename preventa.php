@@ -109,7 +109,7 @@
     <!-- Final del codigo -->
 
     <?php include('templates/footer.html')?>
-    <?php include('templates/scripts.html')?>
+    <?php include('templates/scripts.html') ?>
 
   </body>
 

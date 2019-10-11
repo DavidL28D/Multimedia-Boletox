@@ -36,7 +36,7 @@
               </a>
 
               <h3 class="mb-4 font-weight-bold text-light">
-                  <strong>Super Combo</strong>
+                  <strong>Súper Combo</strong>
               </h3>
 
               <p class="text-light">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum nesciunt nam doloribus nobis! Error repellat veritatis consequuntur rem fugit libero voluptas quo, alias numquam ratione corporis consequatur accusamus totam sunt.</p>
