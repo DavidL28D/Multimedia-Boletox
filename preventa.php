@@ -16,7 +16,7 @@
 
     <br>
     <div class="container">
-
+        <h2 class="text-center text-light font-weight-bold mb-4">Preventa</h2>
         <div class="row">
 
             <div class="col-lg-3 col-md-12 mb-4">
@@ -33,7 +33,7 @@
                 <strong>Aladdin</strong>
                 </h4>
 
-                <p class="text-light">Preventa el <strong>15/07/2018</strong></p>
+                <p class="text-light">Preventa para el <strong>15/07/2018</strong></p>
                 <p class="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita molestiae a repellat suscipit culpa quidem voluptate fuga omnis, corporis nisi beatae vel sequi ad voluptatum veritatis natus, voluptates, tenetur earum.</p>
                 
                 <a class="btn btn-green btn-rounded btn-md waves-effect waves-light">Comprar</a>
@@ -54,7 +54,7 @@
                 <strong>Avengers: Endgame</strong>
                 </h4>
 
-                <p class="text-light">Preventa el <strong>15/07/2018</strong></p>
+                <p class="text-light">Preventa para el <strong>15/07/2018</strong></p>
                 <p class="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita molestiae a repellat suscipit culpa quidem voluptate fuga omnis, corporis nisi beatae vel sequi ad voluptatum veritatis natus, voluptates, tenetur earum.</p>
                 
                 <a class="btn btn-green btn-rounded btn-md waves-effect waves-light">Comprar</a>
@@ -74,7 +74,7 @@
                 <strong>Cementerio Maldito</strong>
                 </h4>
 
-                <p class="text-light">Preventa el <strong>15/07/2018</strong></p>
+                <p class="text-light">Preventa para el <strong>15/07/2018</strong></p>
                 <p class="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita molestiae a repellat suscipit culpa quidem voluptate fuga omnis, corporis nisi beatae vel sequi ad voluptatum veritatis natus, voluptates, tenetur earum.</p>
                 
                 <a class="btn btn-green btn-rounded btn-md waves-effect waves-light">Comprar</a>
@@ -95,7 +95,95 @@
                 <strong>La Llorona</strong>
                 </h4>
 
-                <p class="text-light">Preventa el <strong>15/07/2018</strong></p>
+                <p class="text-light">Preventa para el <strong>15/07/2018</strong></p>
+                <p class="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita molestiae a repellat suscipit culpa quidem voluptate fuga omnis, corporis nisi beatae vel sequi ad voluptatum veritatis natus, voluptates, tenetur earum.</p>
+                
+                <a class="btn btn-green btn-rounded btn-md waves-effect waves-light">Comprar</a>
+                
+            </div>
+
+        </div>
+
+        <h2 class="text-center text-light font-weight-bold mb-4">Preventa</h2>
+        <div class="row">
+
+            <div class="col-lg-3 col-md-12 mb-4">
+
+                <div class="view overlay z-depth-2 mb-2">
+                    <img src="img/covers/ToyStory4.jpg" class="img-fluid rounded" alt="First sample image">
+                    <a>
+                        <div class="mask waves-effect waves-light"></div>
+                    </a>
+                </div>
+                
+                <br>
+                <h4 class="mb-3 font-weight-bold text-light">
+                <strong>Toy Story 4</strong>
+                </h4>
+
+                <p class="text-light">Preventa para el <strong>15/07/2018</strong></p>
+                <p class="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita molestiae a repellat suscipit culpa quidem voluptate fuga omnis, corporis nisi beatae vel sequi ad voluptatum veritatis natus, voluptates, tenetur earum.</p>
+                
+                <a class="btn btn-green btn-rounded btn-md waves-effect waves-light">Comprar</a>
+                
+            </div>
+
+            <div class="col-lg-3 col-md-12 mb-4">
+
+                <div class="view overlay z-depth-2 mb-2">
+                    <img src="img/covers/LaRebelion.jpg" class="img-fluid rounded" alt="First sample image">
+                    <a>
+                        <div class="mask waves-effect waves-light"></div>
+                    </a>
+                </div>
+                
+                <br>
+                <h4 class="mb-3 font-weight-bold text-light">
+                <strong>La Rebelión</strong>
+                </h4>
+
+                <p class="text-light">Preventa para el <strong>15/07/2018</strong></p>
+                <p class="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita molestiae a repellat suscipit culpa quidem voluptate fuga omnis, corporis nisi beatae vel sequi ad voluptatum veritatis natus, voluptates, tenetur earum.</p>
+                
+                <a class="btn btn-green btn-rounded btn-md waves-effect waves-light">Comprar</a>
+                
+            </div>
+            <div class="col-lg-3 col-md-12 mb-4">
+
+                <div class="view overlay z-depth-2 mb-2">
+                    <img src="img/covers/DetectivePikachu.jpg" class="img-fluid rounded" alt="First sample image">
+                    <a>
+                        <div class="mask waves-effect waves-light"></div>
+                    </a>
+                </div>
+                
+                <br>
+                <h4 class="mb-3 font-weight-bold text-light">
+                <strong>Detective Pikachu</strong>
+                </h4>
+
+                <p class="text-light">Preventa para el <strong>15/07/2018</strong></p>
+                <p class="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita molestiae a repellat suscipit culpa quidem voluptate fuga omnis, corporis nisi beatae vel sequi ad voluptatum veritatis natus, voluptates, tenetur earum.</p>
+                
+                <a class="btn btn-green btn-rounded btn-md waves-effect waves-light">Comprar</a>
+                
+            </div>
+
+            <div class="col-lg-3 col-md-12 mb-4">
+
+                <div class="view overlay z-depth-2 mb-2">
+                    <img src="img/covers/Anabelle3.jpg" class="img-fluid rounded" alt="First sample image">
+                    <a>
+                        <div class="mask waves-effect waves-light"></div>
+                    </a>
+                </div>
+                
+                <br>
+                <h4 class="mb-3 font-weight-bold text-light">
+                <strong>Anabelle Viene a Casa</strong>
+                </h4>
+
+                <p class="text-light">Preventa para el <strong>15/07/2018</strong></p>
                 <p class="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita molestiae a repellat suscipit culpa quidem voluptate fuga omnis, corporis nisi beatae vel sequi ad voluptatum veritatis natus, voluptates, tenetur earum.</p>
                 
                 <a class="btn btn-green btn-rounded btn-md waves-effect waves-light">Comprar</a>
