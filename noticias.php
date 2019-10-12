@@ -15,9 +15,9 @@
 
     <!-- Inicio del codigo -->
 
-    <div class="container center">
-
-        <div class="row">
+    <h2 class="text-light text-center font-weight-bold mb-4">Noticias</h2>
+    <section class="container center">
+        <article class="row my-4">
 
             <div class="col-md-5">
                 <div class="view overlay rounded z-depth-2">
@@ -40,12 +40,12 @@
               </h3>
 
               <p class="text-light">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum nesciunt nam doloribus nobis! Error repellat veritatis consequuntur rem fugit libero voluptas quo, alias numquam ratione corporis consequatur accusamus totam sunt.</p>
-              <a class="btn btn-success btn-md mb-3 waves-effect waves-light">Más detalles</a>
+              
                          
             </div>
-        </div>
+        </article>
         <hr>
-        <div class="row">
+        <article class="row my-4">
 
             <div class="col-md-5">
                 <div class="view overlay rounded z-depth-2">
@@ -68,13 +68,13 @@
                 </h3>
 
                 <p class="text-light">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum nesciunt nam doloribus nobis! Error repellat veritatis consequuntur rem fugit libero voluptas quo, alias numquam ratione corporis consequatur accusamus totam sunt.</p>
-                <a class="btn btn-success btn-md mb-3 waves-effect waves-light">Más detalles</a>
+                
                             
             </div>
             
-        </div>
+        </article>
 
-    </div>
+    </section>
 
     <!-- Final del codigo -->
 

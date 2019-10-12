@@ -4,7 +4,7 @@
   <head>
 
     <?php include('templates/head.html')?>
-    <title>Boletox - Estrenos</title>
+    <title>Boletox - Compra</title>
 
   </head>
 
@@ -274,7 +274,7 @@
                 <div class="row-1"><i class="fas fa-couch pointer text-light"></i></div>
             </div>    
         </section>
-        <h3 class="text-light text-center font-weight-bold my-4 ">Seleccion de Compra</h3>
+        <h3 class="text-light text-center font-weight-bold my-4 ">Selección de Compra</h3>
         <section class="mb-4">
             <table class="table table-sm w-50 mx-auto text-center mb-4">
                 <thead class="deep-orange white-text">

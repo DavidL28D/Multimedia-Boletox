@@ -14,7 +14,7 @@
     <br>
 
     <!-- Inicio del codigo -->
-
+    <h2 class="text-light text-center font-weight-bold mb-4">Ofertas</h2>
     <div class="container center">
 
         <div class="row">
@@ -39,9 +39,10 @@
                   <strong>Súper Combo</strong>
               </h3>
 
-              <p class="text-light">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum nesciunt nam doloribus nobis! Error repellat veritatis consequuntur rem fugit libero voluptas quo, alias numquam ratione corporis consequatur accusamus totam sunt.</p>
+              <p class="text-light">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum nesciunt nam doloribus nobis! Error repellat veritatis consequuntur rem fugit libero voluptas quo, alias numquam ratione corporis consequatur accusamus totam sunt. </p>
               <p class="text-light">desde <strong>19/08/2018</strong> hasta <strong>19/08/2018</strong> </p>
-              <a class="btn btn-success btn-md mb-3 waves-effect waves-light">Comprar</a>
+              <p><br><strong class="text-success">Por tan Solo: 25.550 Bs.</strong></p>
+              <a href="compraComida.php"class="btn btn-success btn-md mb-3 waves-effect waves-light">Comprar</a>
                          
             </div>
         </div>
@@ -68,9 +69,10 @@
                   <strong>Combo Especial</strong>
               </h3>
 
-              <p class="text-light">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum nesciunt nam doloribus nobis! Error repellat veritatis consequuntur rem fugit libero voluptas quo, alias numquam ratione corporis consequatur accusamus totam sunt.</p>
+              <p class="text-light">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum nesciunt nam doloribus nobis! Error repellat veritatis consequuntur rem fugit libero voluptas quo, alias numquam ratione corporis consequatur accusamus totam sunt. </p>
               <p class="text-light">desde <strong>19/08/2018</strong> hasta <strong>19/08/2018</strong> </p>
-              <a class="btn btn-success btn-md mb-3 waves-effect waves-light">Comprar</a>
+              <p><br><strong class="text-success">Por tan Solo: 25.550 Bs.</strong></p>
+              <a href="compraComida.php"class="btn btn-success btn-md mb-3 waves-effect waves-light">Comprar</a>
                             
             </div>
         </div>
@@ -97,9 +99,10 @@
                   <strong>Combo Doble</strong>
               </h3>
 
-              <p class="text-light">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum nesciunt nam doloribus nobis! Error repellat veritatis consequuntur rem fugit libero voluptas quo, alias numquam ratione corporis consequatur accusamus totam sunt.</p>
+              <p class="text-light">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum nesciunt nam doloribus nobis! Error repellat veritatis consequuntur rem fugit libero voluptas quo, alias numquam ratione corporis consequatur accusamus totam sunt. </p>
               <p class="text-light">desde <strong>19/08/2018</strong> hasta <strong>19/08/2018</strong> </p>
-              <a class="btn btn-success btn-md mb-3 waves-effect waves-light">Comprar</a>
+              <p><br><strong class="text-success">Por tan Solo: 25.550 Bs.</strong></p>
+              <a href="compraComida.php"class="btn btn-success btn-md mb-3 waves-effect waves-light">Comprar</a>
                             
             </div>
         </div>
@@ -126,9 +129,10 @@
                   <strong>Promo Rey Leon</strong>
               </h3>
 
-              <p class="text-light">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum nesciunt nam doloribus nobis! Error repellat veritatis consequuntur rem fugit libero voluptas quo, alias numquam ratione corporis consequatur accusamus totam sunt.</p>
+              <p class="text-light">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nostrum nesciunt nam doloribus nobis! Error repellat veritatis consequuntur rem fugit libero voluptas quo, alias numquam ratione corporis consequatur accusamus totam sunt. </p>
               <p class="text-light">desde <strong>19/08/2018</strong> hasta <strong>19/08/2018</strong> </p>
-              <a class="btn btn-success btn-md mb-3 waves-effect waves-light">Comprar</a>
+              <p><br><strong class="text-success">Por tan Solo: 25.550 Bs.</strong></p>
+              <a href="compraComida.php"class="btn btn-success btn-md mb-3 waves-effect waves-light">Comprar</a>
                             
             </div>
         </div>

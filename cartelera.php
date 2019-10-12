@@ -35,7 +35,7 @@
               
               <p class="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita molestiae a repellat suscipit culpa quidem voluptate fuga omnis, corporis nisi beatae vel sequi ad voluptatum veritatis natus, voluptates, tenetur earum.</p>
               
-              <a class="btn btn-green btn-rounded btn-md waves-effect waves-light">Comprar</a>
+              <a href="compra.php" class="btn btn-green btn-rounded btn-md waves-effect waves-light">Comprar</a>
               
           </div>
 
@@ -56,7 +56,7 @@
               
               <p class="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita molestiae a repellat suscipit culpa quidem voluptate fuga omnis, corporis nisi beatae vel sequi ad voluptatum veritatis natus, voluptates, tenetur earum.</p>
               
-              <a class="btn btn-green btn-rounded btn-md waves-effect waves-light">Comprar</a>
+              <a href="compra.php" class="btn btn-green btn-rounded btn-md waves-effect waves-light">Comprar</a>
               
           </div>
           <div class="col-lg-3 col-md-12 mb-4">
@@ -76,7 +76,7 @@
               
               <p class="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita molestiae a repellat suscipit culpa quidem voluptate fuga omnis, corporis nisi beatae vel sequi ad voluptatum veritatis natus, voluptates, tenetur earum.</p>
               
-              <a class="btn btn-green btn-rounded btn-md waves-effect waves-light">Comprar</a>
+              <a href="compra.php" class="btn btn-green btn-rounded btn-md waves-effect waves-light">Comprar</a>
               
           </div>
 
@@ -97,7 +97,7 @@
               
               <p class="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita molestiae a repellat suscipit culpa quidem voluptate fuga omnis, corporis nisi beatae vel sequi ad voluptatum veritatis natus, voluptates, tenetur earum.</p>
               
-              <a class="btn btn-green btn-rounded btn-md waves-effect waves-light">Comprar</a>
+              <a href="compra.php" class="btn btn-green btn-rounded btn-md waves-effect waves-light">Comprar</a>
               
           </div>
 
