@@ -45,4 +45,8 @@
     content: "\e900";
     font-size: 40px;
   }
+
+  .pointer{
+    cursor:pointer;
+  }
   

@@ -23,49 +23,49 @@
               <li data-target="#carousel-notices" data-slide-to="3"></li>
           </ol>
           <div class="carousel-inner" role="listbox">
-              <div class="carousel-item active">
-                  <div class="view">
-                      <img class="d-block w-100" style="height: 500px;"  src="img/banners/Slide1.jpg"
-                        alt="First slide">
-                      <div class="mask rgba-black-light"></div>
-                  </div>
-              </div>
-              <div class="carousel-item">
-                  <div class="view">
-                      <img class="d-block w-100" style="height: 500px;" src="img/banners/Slide2.jpg"
-                        alt="Second slide">
-                      <div class="mask rgba-black-light"></div>
-                  </div>
-              </div>
-              <div class="carousel-item">
-                  <div class="view">
-                      <img class="d-block w-100" style="height: 500px;" src="img/banners/Slide3.png"
-                        alt="Third slide">
-                      <div class="mask rgba-black-light"></div>
-                  </div>
-                  
-              </div>
-              <div class="carousel-item">
-                  <div class="view">
-                      <img class="d-block w-100" style="height: 500px;" src="img/banners/Slide4.jpeg"
-                        alt="Third slide">
-                      <div class="mask rgba-black-light"></div>
-                  </div>
-              </div>
+            <div class="carousel-item active">
+                <div class="view">
+                    <img class="d-block w-100" style="height: 500px;"  src="img/banners/Slide1.jpg"
+                      alt="First slide">
+                    <div class="mask rgba-black-light"></div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="view">
+                    <img class="d-block w-100" style="height: 500px;" src="img/banners/Slide2.jpg"
+                      alt="Second slide">
+                    <div class="mask rgba-black-light"></div>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <div class="view">
+                    <img class="d-block w-100" style="height: 500px;" src="img/banners/Slide3.png"
+                      alt="Third slide">
+                    <div class="mask rgba-black-light"></div>
+                </div>
+                
+            </div>
+            <div class="carousel-item">
+                <div class="view">
+                    <img class="d-block w-100" style="height: 500px;" src="img/banners/Slide4.jpeg"
+                      alt="Third slide">
+                    <div class="mask rgba-black-light"></div>
+                </div>
+            </div>
           </div>
           <a class="carousel-control-prev" href="#carousel-notices" role="button" data-slide="prev">
-              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-              <span class="sr-only">Previous</span>
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
           </a>
           <a class="carousel-control-next" href="#carousel-notices" role="button" data-slide="next">
-              <span class="carousel-control-next-icon" aria-hidden="true"></span>
-              <span class="sr-only">Next</span>
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
           </a>
       </div>
     </section>
     <!-----------------------------------------------------------------Carrusel multiple---------------------------------------------------------->
     <section class="container pb-4" >
-      <h3 class="text-light font-weight-bold text-center my-4">Películas</h3>
+      <h3 class="text-light font-weight-bold text-center my-4">Cartelera</h3>
       <div id="multi-movies-slide" class="carousel slide carousel-multi-item m-4" data-ride="carousel">
       
         <div class="carousel-inner" role="listbox">
@@ -74,40 +74,40 @@
 
             <div class="row">
 
-                <div class="col-md-3">
+              <div class="col-md-3">
+                <div class="card mb-2">
+                  <img class="card-img-top"
+                    src="img/covers/AvengersEndgame.jpg"
+                    alt="Card image cap">
+                  <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                </div>
+              </div>
+        
+              <div class="col-md-3">
+                <div class="card mb-2">
+                  <img class="card-img-top"
+                    src="img/covers/CementerioMaldito.jpg"
+                    alt="Card image cap">
+                    <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                </div>
+              </div>
+        
+              <div class="col-md-3">
+                <div class="card mb-2">
+                  <img class="card-img-top"
+                    src="img/covers/DetectivePikachu.jpg"
+                    alt="Card image cap">
+                    <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                </div>
+              </div>
+
+              <div class="col-md-3">
                   <div class="card mb-2">
                     <img class="card-img-top"
-                      src="img/covers/AvengersEndgame.jpg"
-                      alt="Card image cap">
+                      src="img/covers/DolorYGloria.jpg" alt="Card image cap">
                     <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
                   </div>
-                </div>
-          
-                <div class="col-md-3">
-                  <div class="card mb-2">
-                    <img class="card-img-top"
-                      src="img/covers/CementerioMaldito.jpg"
-                      alt="Card image cap">
-                      <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
-                  </div>
-                </div>
-          
-                <div class="col-md-3">
-                  <div class="card mb-2">
-                    <img class="card-img-top"
-                      src="img/covers/DetectivePikachu.jpg"
-                      alt="Card image cap">
-                      <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
-                  </div>
-                </div>
-
-                <div class="col-md-3">
-                    <div class="card mb-2">
-                      <img class="card-img-top"
-                        src="img/covers/DolorYGloria.jpg" alt="Card image cap">
-                      <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
-                    </div>
-                </div>
+              </div>
 
             </div>
       
@@ -142,12 +142,12 @@
               </div>
 
               <div class="col-md-3">
-                  <div class="card mb-2">
-                    <img class="card-img-top"
-                      src="img/covers/MIBInternacional.jpg" alt="Card image cap">
-                    <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
-                  </div>
+                <div class="card mb-2">
+                  <img class="card-img-top"
+                    src="img/covers/MIBInternacional.jpg" alt="Card image cap">
+                  <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
                 </div>
+              </div>
         
             </div>
           </div>
@@ -205,7 +205,7 @@
           </ol>
         </div>
         <div class="text-right mx-4">
-          <a href="peliculas.php" class="btn btn-deep-orange btn-sm">Ver Más</a>
+          <a href="cartelera.php" class="btn btn-success btn-sm">Ver Más</a>
         </div>
 
       <h3 class="text-light font-weight-bold text-center my-4">Preventa</h3>
@@ -348,7 +348,7 @@
           </ol>
         </div>
         <div class="text-right mx-4">
-          <a href="preventa.php" class="btn btn-deep-orange btn-sm">Ver Más</a>
+          <a href="preventa.php" class="btn btn-success btn-sm">Ver Más</a>
         </div>
 
         <h3 class="text-light font-weight-bold text-center my-4">Próximos Estrenos</h3>
@@ -492,7 +492,7 @@
         </div>
         <div class="text-right mx-4">
             
-            <a href="proximosEstrenos.php" class="btn btn-deep-orange btn-sm">Ver Más</a>
+            <a href="estrenos.php" class="btn btn-success btn-sm">Ver Más</a>
             
         </div>
     </section>

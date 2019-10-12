@@ -32,7 +32,7 @@
               <strong>Toy Story 4</strong>
               </h4>
 
-              <p class="text-light">Preventa para el <strong>15/07/2018</strong></p>
+              
               <p class="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita molestiae a repellat suscipit culpa quidem voluptate fuga omnis, corporis nisi beatae vel sequi ad voluptatum veritatis natus, voluptates, tenetur earum.</p>
               
               <a class="btn btn-green btn-rounded btn-md waves-effect waves-light">Comprar</a>
@@ -53,7 +53,7 @@
               <strong>La Rebelión</strong>
               </h4>
 
-              <p class="text-light">Preventa para el <strong>15/07/2018</strong></p>
+              
               <p class="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita molestiae a repellat suscipit culpa quidem voluptate fuga omnis, corporis nisi beatae vel sequi ad voluptatum veritatis natus, voluptates, tenetur earum.</p>
               
               <a class="btn btn-green btn-rounded btn-md waves-effect waves-light">Comprar</a>
@@ -73,7 +73,7 @@
               <strong>Detective Pikachu</strong>
               </h4>
 
-              <p class="text-light">Preventa para el <strong>15/07/2018</strong></p>
+              
               <p class="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita molestiae a repellat suscipit culpa quidem voluptate fuga omnis, corporis nisi beatae vel sequi ad voluptatum veritatis natus, voluptates, tenetur earum.</p>
               
               <a class="btn btn-green btn-rounded btn-md waves-effect waves-light">Comprar</a>
@@ -94,7 +94,7 @@
               <strong>Anabelle Viene a Casa</strong>
               </h4>
 
-              <p class="text-light">Preventa para el <strong>15/07/2018</strong></p>
+              
               <p class="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita molestiae a repellat suscipit culpa quidem voluptate fuga omnis, corporis nisi beatae vel sequi ad voluptatum veritatis natus, voluptates, tenetur earum.</p>
               
               <a class="btn btn-green btn-rounded btn-md waves-effect waves-light">Comprar</a>
@@ -118,7 +118,7 @@
                 <strong>Aladdin</strong>
                 </h4>
 
-                <p class="text-light">Preventa el <strong>15/07/2018</strong></p>
+                
                 <p class="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita molestiae a repellat suscipit culpa quidem voluptate fuga omnis, corporis nisi beatae vel sequi ad voluptatum veritatis natus, voluptates, tenetur earum.</p>
                 
                 <a href="compra.php" class="mt-auto btn btn-green btn-rounded btn-md waves-effect waves-light">Comprar</a>
@@ -142,7 +142,7 @@
                 <strong>Avengers: Endgame</strong>
                 </h4>
 
-                <p class="text-light">Preventa el <strong>15/07/2018</strong></p>
+                
                 <p class="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita molestiae a repellat suscipit culpa quidem voluptate fuga omnis, corporis nisi beatae vel sequi ad voluptatum veritatis natus, voluptates, tenetur earum.</p>
                 
                 <a href="compra.php" class="btn btn-green btn-rounded btn-md waves-effect waves-light">Comprar</a>
@@ -162,7 +162,7 @@
                 <strong>Cementerio Maldito</strong>
                 </h4>
 
-                <p class="text-light">Preventa el <strong>15/07/2018</strong></p>
+                
                 <p class="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita molestiae a repellat suscipit culpa quidem voluptate fuga omnis, corporis nisi beatae vel sequi ad voluptatum veritatis natus, voluptates, tenetur earum.</p>
                 
                 <a href="compra.php" class="btn btn-green btn-rounded btn-md waves-effect waves-light">Comprar</a>
@@ -183,7 +183,7 @@
                 <strong>La Llorona</strong>
                 </h4>
 
-                <p class="text-light">Preventa el <strong>15/07/2018</strong></p>
+                
                 <p class="text-light">Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita molestiae a repellat suscipit culpa quidem voluptate fuga omnis, corporis nisi beatae vel sequi ad voluptatum veritatis natus, voluptates, tenetur earum.</p>
                 
                 <a href="compra.php" class="btn btn-green btn-rounded btn-md waves-effect waves-light">Comprar</a>
