@@ -78,7 +78,7 @@
           <div class="col-md-12">
             <div class="md-form mb-0">
               <textarea id="form-contact-message" class="form-control md-textarea" rows="3"></textarea>
-              <label for="form-contact-message">Tú mensaje</label>
+              <label for="form-contact-message">Mensaje</label>
               <a class="btn-floating btn-lg amber darken-4">
                 <i class="far fa-paper-plane"></i>
               </a>
