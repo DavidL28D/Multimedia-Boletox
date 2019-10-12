@@ -79,7 +79,7 @@
                   <img class="card-img-top"
                     src="img/covers/AvengersEndgame.jpg"
                     alt="Card image cap">
-                  <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                  <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                 </div>
               </div>
         
@@ -88,7 +88,7 @@
                   <img class="card-img-top"
                     src="img/covers/CementerioMaldito.jpg"
                     alt="Card image cap">
-                    <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                    <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                 </div>
               </div>
         
@@ -97,7 +97,7 @@
                   <img class="card-img-top"
                     src="img/covers/DetectivePikachu.jpg"
                     alt="Card image cap">
-                    <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                    <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                 </div>
               </div>
 
@@ -105,7 +105,7 @@
                   <div class="card mb-2">
                     <img class="card-img-top"
                       src="img/covers/DolorYGloria.jpg" alt="Card image cap">
-                    <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                    <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                   </div>
               </div>
 
@@ -121,7 +121,7 @@
                 <div class="card mb-2">
                   <img class="card-img-top"
                     src="img/covers/LaRebelion.jpg" alt="Card image cap">
-                    <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                    <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                 </div>
               </div>
         
@@ -129,7 +129,7 @@
                 <div class="card mb-2">
                   <img class="card-img-top"
                     src="img/covers/RocketMan.jpg" alt="Card image cap">
-                    <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                    <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                 </div>
               </div>
         
@@ -137,7 +137,7 @@
                 <div class="card mb-2">
                   <img class="card-img-top"
                     src="img/covers/UglyDolls.jpg" alt="Card image cap">
-                  <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                  <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                 </div>
               </div>
 
@@ -145,7 +145,7 @@
                 <div class="card mb-2">
                   <img class="card-img-top"
                     src="img/covers/MIBInternacional.jpg" alt="Card image cap">
-                  <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                  <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                 </div>
               </div>
         
@@ -160,7 +160,7 @@
                 <div class="card mb-2">
                   <img class="card-img-top"
                     src="img/covers/ToyStory4.jpg" alt="Card image cap">
-                  <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                  <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                 </div>
               </div>
         
@@ -168,7 +168,7 @@
                 <div class="card mb-2">
                   <img class="card-img-top"
                     src="img/covers/SpidermanLejosDeCasa.jpg" alt="Card image cap">
-                  <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                  <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                 </div>
               </div>
         
@@ -176,7 +176,7 @@
                 <div class="card mb-2">
                   <img class="card-img-top"
                     src="img/covers/Anabelle3.jpg" alt="Card image cap">
-                  <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                  <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                 </div>
               </div>
 
@@ -184,7 +184,7 @@
                   <div class="card mb-2">
                     <img class="card-img-top"
                       src="img/covers/BrightburnHijoDeLaObscuridad.jpg" alt="Card image cap">
-                    <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                    <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                   </div>
               </div>
 
@@ -222,7 +222,7 @@
                     <img class="card-img-top"
                       src="img/covers/AvengersEndgame.jpg"
                       alt="Card image cap">
-                    <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                    <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                   </div>
                 </div>
           
@@ -231,7 +231,7 @@
                     <img class="card-img-top"
                       src="img/covers/CementerioMaldito.jpg"
                       alt="Card image cap">
-                      <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                      <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                   </div>
                 </div>
           
@@ -240,7 +240,7 @@
                     <img class="card-img-top"
                       src="img/covers/DetectivePikachu.jpg"
                       alt="Card image cap">
-                      <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                      <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                   </div>
                 </div>
 
@@ -248,7 +248,7 @@
                     <div class="card mb-2">
                       <img class="card-img-top"
                         src="img/covers/DolorYGloria.jpg" alt="Card image cap">
-                      <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                      <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                     </div>
                 </div>
 
@@ -264,7 +264,7 @@
                 <div class="card mb-2">
                   <img class="card-img-top"
                     src="img/covers/LaRebelion.jpg" alt="Card image cap">
-                    <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                    <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                 </div>
               </div>
         
@@ -272,7 +272,7 @@
                 <div class="card mb-2">
                   <img class="card-img-top"
                     src="img/covers/RocketMan.jpg" alt="Card image cap">
-                    <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                    <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                 </div>
               </div>
         
@@ -280,7 +280,7 @@
                 <div class="card mb-2">
                   <img class="card-img-top"
                     src="img/covers/UglyDolls.jpg" alt="Card image cap">
-                  <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                  <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                 </div>
               </div>
 
@@ -288,7 +288,7 @@
                   <div class="card mb-2">
                     <img class="card-img-top"
                       src="img/covers/MIBInternacional.jpg" alt="Card image cap">
-                    <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                    <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                   </div>
                 </div>
         
@@ -303,7 +303,7 @@
                 <div class="card mb-2">
                   <img class="card-img-top"
                     src="img/covers/ToyStory4.jpg" alt="Card image cap">
-                  <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                  <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                 </div>
               </div>
         
@@ -311,7 +311,7 @@
                 <div class="card mb-2">
                   <img class="card-img-top"
                     src="img/covers/SpidermanLejosDeCasa.jpg" alt="Card image cap">
-                  <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                  <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                 </div>
               </div>
         
@@ -319,7 +319,7 @@
                 <div class="card mb-2">
                   <img class="card-img-top"
                     src="img/covers/Anabelle3.jpg" alt="Card image cap">
-                  <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                  <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                 </div>
               </div>
 
@@ -327,7 +327,7 @@
                   <div class="card mb-2">
                     <img class="card-img-top"
                       src="img/covers/BrightburnHijoDeLaObscuridad.jpg" alt="Card image cap">
-                    <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                    <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                   </div>
               </div>
 
@@ -365,7 +365,7 @@
                     <img class="card-img-top"
                       src="img/covers/AvengersEndgame.jpg"
                       alt="Card image cap">
-                    <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                    <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                   </div>
                 </div>
           
@@ -374,7 +374,7 @@
                     <img class="card-img-top"
                       src="img/covers/CementerioMaldito.jpg"
                       alt="Card image cap">
-                      <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                      <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                   </div>
                 </div>
           
@@ -383,7 +383,7 @@
                     <img class="card-img-top"
                       src="img/covers/DetectivePikachu.jpg"
                       alt="Card image cap">
-                      <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                      <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                   </div>
                 </div>
 
@@ -391,7 +391,7 @@
                     <div class="card mb-2">
                       <img class="card-img-top"
                         src="img/covers/DolorYGloria.jpg" alt="Card image cap">
-                      <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                      <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                     </div>
                 </div>
 
@@ -407,7 +407,7 @@
                 <div class="card mb-2">
                   <img class="card-img-top"
                     src="img/covers/LaRebelion.jpg" alt="Card image cap">
-                    <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                    <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                 </div>
               </div>
         
@@ -415,7 +415,7 @@
                 <div class="card mb-2">
                   <img class="card-img-top"
                     src="img/covers/RocketMan.jpg" alt="Card image cap">
-                    <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                    <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                 </div>
               </div>
         
@@ -423,7 +423,7 @@
                 <div class="card mb-2">
                   <img class="card-img-top"
                     src="img/covers/UglyDolls.jpg" alt="Card image cap">
-                  <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                  <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                 </div>
               </div>
 
@@ -431,7 +431,7 @@
                   <div class="card mb-2">
                     <img class="card-img-top"
                       src="img/covers/MIBInternacional.jpg" alt="Card image cap">
-                    <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                    <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                   </div>
                 </div>
         
@@ -446,7 +446,7 @@
                 <div class="card mb-2">
                   <img class="card-img-top"
                     src="img/covers/ToyStory4.jpg" alt="Card image cap">
-                  <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                  <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                 </div>
               </div>
         
@@ -454,7 +454,7 @@
                 <div class="card mb-2">
                   <img class="card-img-top"
                     src="img/covers/SpidermanLejosDeCasa.jpg" alt="Card image cap">
-                  <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                  <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                 </div>
               </div>
         
@@ -462,7 +462,7 @@
                 <div class="card mb-2">
                   <img class="card-img-top"
                     src="img/covers/Anabelle3.jpg" alt="Card image cap">
-                  <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                  <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                 </div>
               </div>
 
@@ -470,7 +470,7 @@
                   <div class="card mb-2">
                     <img class="card-img-top"
                       src="img/covers/BrightburnHijoDeLaObscuridad.jpg" alt="Card image cap">
-                    <a class="position-absolute w-100 h-100"  href="pelicula.php"></a>
+                    <a class="position-absolute w-100 h-100"  href="compra.php"></a>
                   </div>
               </div>
 
