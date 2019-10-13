@@ -4,7 +4,7 @@
   <head>
 
     <?php include('templates/head.html') ?>
-    <title>Boletox</title>
+    <title>Boletox - Comida</title>
 
   </head>
 
