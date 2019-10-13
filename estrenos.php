@@ -14,7 +14,6 @@
 
     <!-- Inicio del codigo -->
 
-    <h2 class="text-light text-center font-weight-bold mb-4">Notícias</h2>
     <div class="container">
 
         <h2 class="text-center text-light font-weight-bold mb-4">Próximos Estrenos</h2>
